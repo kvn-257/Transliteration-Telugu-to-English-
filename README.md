@@ -4,7 +4,7 @@ This project aims to develop a transliteration system that converts Telugu text 
 
 ## Codes to understand and apply 
 
-1. Main Code for training the model and for inferenece in the notebook [Project (Transliteration).ipynb](Project (Transliteration).ipynb).
+1. Main Code for training the model and for inferenece in the notebook [Project(Transliteration).ipynb](Project (Transliteration).ipynb).
 2. Conversion of trained model to android compatible model in notebook [Demo.ipynb](Demo.ipynb). 
 3. Main code of backend of app in [MainActivity.java](app/src/main/java/com/example/transliteration/MainActivity.java).
 4. For front end of app, refer [layouts](app/src/main/res/layout/).
