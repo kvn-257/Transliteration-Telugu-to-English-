@@ -44,6 +44,9 @@ To run this project, you will need the following libraries:
 6. Install the app on an Android device or emulator.
 7. Launch the app, capture or select an image with Telugu text, and observe the transliterated output.
 
+## Results
+<img src="android3.jpg"  width="250">                     <img src="testandroid2.jpg"  width="250">                            <img src="testmodel.jpg" width="250">
+
 ## Contribution
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to create a pull request.
